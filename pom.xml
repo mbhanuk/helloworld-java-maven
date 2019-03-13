@@ -5,6 +5,7 @@
   <artifactId>yoodle</artifactId>
   <packaging>jar</packaging>
   <version>5.0.0</version>
+#maven url	
   <name>my-maven</name>
   <url>http://maven.apache.org</url>
 	
