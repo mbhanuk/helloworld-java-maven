@@ -7,7 +7,7 @@
   <version>5.0.0</version>
   <name>my-maven</name>
   <url>http://maven.apache.org</url>
-	
+# new package	
 <properties>
   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 </properties>
